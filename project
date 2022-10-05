@@ -1,0 +1,6 @@
+git config --global user.name "JJaegal"
+git config --global user.email "jgj3208@berkeley.edu"
+
+# 잘 입력되었는지 확인하려면 아래와 같은 커맨드를 통해 확인 가능하다
+git config --list 
+
